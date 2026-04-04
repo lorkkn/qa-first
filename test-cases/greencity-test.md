@@ -2,7 +2,7 @@ ID: 1
 <br>
 Title: Testing searchbar using existing event
 <br>
-Precondition: on Events page
+Precondition: on Events page, there is at least 1 event
 <br>
 
 | Step | Action | Data | Expected Result |
@@ -15,7 +15,7 @@ ID: 2
 <br>
 Title: Testing searchbar using non-existent event
 <br>
-Precondition: on Events page
+Precondition: on Events page,there is at least 1 event
 
 | Step | Action | Data | Expected Result |
 | :--- | :--- | :--- | :--- |
