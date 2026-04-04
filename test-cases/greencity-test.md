@@ -8,7 +8,7 @@ Precondition: on Events page
 | Step | Action | Data | Expected Result |
 | :--- | :--- | :--- | :--- |
 | 1 | Click on the searchbar | - | Searchbar becomes active for typing |
-| 2 | Type in the name of an existing event | "Some event" | Events with these words in the name show up |
+| 2 | Type in the name of an existing event | - | Events with these words in the name show up |
 
 <br>
 ID: 2
@@ -20,7 +20,7 @@ Precondition: on Events page
 | Step | Action | Data | Expected Result |
 | :--- | :--- | :--- | :--- |
 | 1 | Click on the searchbar | - | Searchbar becomes active for typing |
-| 2 | Type in the name of a non existing event | "444444444444" | "No results match your search criteria" message shows up |
+| 2 | Type in the name of a non existing event | - | "No results match your search criteria" message shows up |
 
 <br>
 ID: 3
