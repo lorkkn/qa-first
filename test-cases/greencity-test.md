@@ -15,7 +15,7 @@ ID: 2
 <br>
 Title: Testing searchbar using non-existent event
 <br>
-Precondition: on Events page,there is at least 1 event
+Precondition: on Events page, there is at least 1 event
 
 | Step | Action | Data | Expected Result |
 | :--- | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ ID: 3
 <br>
 Title: Testing date filter
 <br>
-Precondition: on Events page
+Precondition: on Events page, there is at least 1 event
 
 | Step | Action | Data | Expected Result |
 | :--- | :--- | :--- | :--- |
