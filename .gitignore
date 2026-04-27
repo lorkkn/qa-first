@@ -128,3 +128,10 @@ cython_debug/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+__pycache__/
+.pytest_cache/
+venv/
+env/
+allure-results/
+allure-report/
